@@ -1,0 +1,3 @@
+txtfile	input.txt
+alignmentType	1
+useSplines	True

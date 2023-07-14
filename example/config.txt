@@ -1,0 +1,2 @@
+Prefix plugins/BSpline/example/
+Plugin BSpline inputfile parameters.txt outputfile rankings.tsv
